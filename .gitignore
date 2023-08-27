@@ -1,0 +1,15 @@
+# .gitignore
+.env
+__pycache__/
+*.py[cod]
+*.pyc
+*~
+instance/
+.pytest_cache/
+instance/
+.idea/
+.gitignore
+db.sqlite3
+myenv
+userdata
+data.json
